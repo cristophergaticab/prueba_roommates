@@ -1,0 +1,18 @@
+{
+ "roommates": [
+  {
+   "id": "6384a1",
+   "nombre": "Louise Monteiro",
+   "debe": 12445,
+   "recibe": 2490,
+   "correo": "louise.monteiro@example.com"
+  },
+  {
+   "id": "c4ac37",
+   "nombre": "Sahar Skogly",
+   "debe": 0,
+   "recibe": 12445,
+   "correo": "sahar.skogly@example.com"
+  }
+ ]
+}

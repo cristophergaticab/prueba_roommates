@@ -1,0 +1,16 @@
+{
+ "gastos": [
+  {
+   "id": "a41e5a",
+   "roommate": "Louise Monteiro",
+   "descripcion": "Limpia piso",
+   "monto": 2490
+  },
+  {
+   "id": "96989b",
+   "roommate": "Sahar Skogly",
+   "descripcion": "Luz",
+   "monto": 24890
+  }
+ ]
+}

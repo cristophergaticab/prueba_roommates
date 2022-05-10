@@ -1,0 +1,18 @@
+{
+  "name": "rommmates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "follow-redirects": "^1.14.9",
+    "nodemailer": "^6.7.5",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristopher Gatica",
+  "license": "ISC",
+  "description": "prueba roommates",
+  "devDependencies": {}
+}
